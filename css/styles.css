@@ -294,6 +294,10 @@ img {
   background-color: #2e2f42;
 }
 
+.page-footer.section {
+  padding: 100px 0;
+}
+
 .footer-logo {
   margin-bottom: 16px;
 }
